@@ -1,0 +1,38 @@
+* {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+body {
+  background-image: url(../img/city.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  background-position: center;
+}
+body h1 {
+  color: rgba(0, 0, 0, 0.87);
+  text-shadow: rgba(255, 255, 255, 0.575) 5px 10px 8px;
+}
+body .myForm {
+  width: 70%;
+  height: 400px;
+}
+body .myForm .myInput {
+  width: 40%;
+  margin: 0 auto;
+}
+body div {
+  width: 40%;
+  margin: 0 auto;
+  background-color: rgba(0, 0, 0, 0.568);
+  border-radius: 5px;
+}
+body div .test {
+  list-style-type: none;
+  font-size: 25px;
+  color: white;
+  width: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */
